@@ -1,0 +1,5 @@
+# Compiled webpack -- left as an example of the result of a webpack build
+#dist/
+
+# Dependency directories
+node_modules/
